@@ -16,4 +16,4 @@ public class BinaryToDeciaml {
         }
         System.out.println("The decimal number is " + decimal);
     }
-    
+}
